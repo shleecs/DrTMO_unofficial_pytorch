@@ -13,10 +13,6 @@ This project is unofficial pytorch implementation version. If you have any quest
 4. Pytorch 0.3.1
 
 
-## Additional implemented parts:
-
-Training source / loss implementation / dataloader ... 
-
 ## Dataset
 The hdr datasets were collected by referring to the following paper(HDR image reconstruction from a single exposure using deep CNNs, SIGGRAPH ASIA 2017).
 http://hdrv.org/hdrcnn/material/sga17_supplementary.pdf
