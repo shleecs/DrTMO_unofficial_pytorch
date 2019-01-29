@@ -22,4 +22,4 @@ The hdr datasets were collected by referring to the following paper(HDR image re
 http://hdrv.org/hdrcnn/material/sga17_supplementary.pdf
 
 ## Results
-TBD
+<img src = "https://github.com/shleecs/DrTMO_unofficial_pytorch/blob/master/result.png">
