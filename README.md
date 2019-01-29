@@ -11,7 +11,7 @@ This project is unofficial pytorch implementation version. If you have any quest
 2. Python 2.7
 3. NVIDIA GPU + CUDA CuDNN (CUDA 8.0)
 4. Pytorch 0.3.1
-5. TensorboardX
+
 
 ## Additional implemented parts:
 
